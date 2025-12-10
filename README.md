@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Gabriel e sou estudante de Análise e desenvolvimento de sistemas, aqui no Rio de Janeiro, e tricolor com certeza!</p>
+<p align="left">Meu nome é Gabriel, sou desenvolvedor web e estudante de Análise e desenvolvimento de sistemas, aqui no Rio de Janeiro, e tricolor com certeza!</p>
 
 ###
 
