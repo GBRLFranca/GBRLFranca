@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Escrevo na tela preta com:</h2>
+<h2 align="left">Escrevo na tela preta usando:</h2>
 
 ###
 
