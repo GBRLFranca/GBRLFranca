@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Estudando, aprendendo e praticando programação desde 2024<br>📚 Atualmente estudando C#<br>🎯Meu portfolio pessoal: https://gbfportfolio.vercel.app/<br>🎯 Meu primeiro projeto profissional: https://aroma-lab.vercel.app/</p>
+<p align="left">✨ Estudando, aprendendo e praticando programação desde 2024<br>📚 Atualmente estudando C#<br>🎯Meu portfolio pessoal: https://gbfportfolio.vercel.app/<br>🎯 Meu principal projeto profissional: https://imbrasa-distribuidora.com/</p>
 
 ###
 
