@@ -1,4 +1,4 @@
-<h1 align="left">Coé, seja bem vindo ao meu perfil ✌️</h1>
+<h1 align="left">Seja bem vindo ao meu perfil ✌️</h1>
 
 ###
 
